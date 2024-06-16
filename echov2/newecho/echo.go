@@ -1,4 +1,4 @@
-package echo
+package newecho
 
 import "github.com/hinscx/goecho/internal/echoutil"
 
